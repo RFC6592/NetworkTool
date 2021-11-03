@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "cZ9g9iwXZgBIPKugDSbJOFEgt23mSMx6lmBEjHmahtCAIGXDnS0twMjVl1sGsZKIdRi4w2TkJJF1S42HleM5EA==",
+  "success": true,
+  "projectFilePath": "A:\\Github\\ComptePrivate\\NetworkTool\\WPFPowerShell\\WPFPowerShell.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ezzas\\.nuget\\packages\\controlzex\\4.3.0\\controlzex.4.3.0.nupkg.sha512",
+    "C:\\Users\\ezzas\\.nuget\\packages\\mahapps.metro\\2.0.0\\mahapps.metro.2.0.0.nupkg.sha512",
+    "C:\\Users\\ezzas\\.nuget\\packages\\materialdesigncolors\\2.0.1\\materialdesigncolors.2.0.1.nupkg.sha512",
+    "C:\\Users\\ezzas\\.nuget\\packages\\materialdesignthemes\\4.1.0\\materialdesignthemes.4.1.0.nupkg.sha512",
+    "C:\\Users\\ezzas\\.nuget\\packages\\materialdesignthemes.mahapps\\0.1.7\\materialdesignthemes.mahapps.0.1.7.nupkg.sha512",
+    "C:\\Users\\ezzas\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.19\\microsoft.xaml.behaviors.wpf.1.1.19.nupkg.sha512"
+  ],
+  "logs": []
+}

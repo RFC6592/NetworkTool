@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "A:\\Github\\ComptePrivate\\NetworkTool\\WPFPowerShell\\WPFPowerShell.csproj": {}
+  },
+  "projects": {
+    "A:\\Github\\ComptePrivate\\NetworkTool\\WPFPowerShell\\WPFPowerShell.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "A:\\Github\\ComptePrivate\\NetworkTool\\WPFPowerShell\\WPFPowerShell.csproj",
+        "projectName": "WPFPowerShell",
+        "projectPath": "A:\\Github\\ComptePrivate\\NetworkTool\\WPFPowerShell\\WPFPowerShell.csproj",
+        "packagesPath": "C:\\Users\\ezzas\\.nuget\\packages\\",
+        "outputPath": "A:\\Github\\ComptePrivate\\NetworkTool\\WPFPowerShell\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\ezzas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net452"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net452": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net452": {
+          "dependencies": {
+            "MahApps.Metro": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "MaterialDesignThemes.MahApps": {
+              "target": "Package",
+              "version": "[0.1.7, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

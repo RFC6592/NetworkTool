@@ -1,0 +1,4 @@
+A:\Github\ComptePrivate\WPFPowerShell\WPFPowerShell\obj\Release\MainWindow.g.cs
+A:\Github\ComptePrivate\WPFPowerShell\WPFPowerShell\obj\Release\App.g.cs
+A:\Github\ComptePrivate\WPFPowerShell\WPFPowerShell\obj\Release\WPFPowerShell_MarkupCompile.cache
+A:\Github\ComptePrivate\WPFPowerShell\WPFPowerShell\obj\Release\WPFPowerShell_MarkupCompile.lref
