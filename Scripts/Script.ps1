@@ -22,8 +22,8 @@ Add-Type -AssemblyName System.Drawing
         <Button x:Name="bSearchUsername" Content="Search" HorizontalAlignment="Left" Margin="285,42,0,0" VerticalAlignment="Top" Width="97" Height="19" Background="White"/>
         <Button x:Name="bSearchComputer" Content="Search" HorizontalAlignment="Left" Margin="285,77,0,0" VerticalAlignment="Top" Width="97" Height="19" Background="White"/>
 
-        <TextBox HorizontalAlignment="Left" Height="23" Margin="146,41,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" SpellCheck.IsEnabled="True"/>
-        <TextBox HorizontalAlignment="Left" Height="21" Margin="146,77,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" SpellCheck.IsEnabled="True"/>
+        <TextBox x:Name="username" HorizontalAlignment="Left" Height="23" Margin="146,41,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" SpellCheck.IsEnabled="True"/>
+        <TextBox x:Name="computername" HorizontalAlignment="Left" Height="21" Margin="146,77,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" SpellCheck.IsEnabled="True"/>
         <Label FontWeight="Bold" Content="Username:" HorizontalAlignment="Left" Margin="28,41,0,0" VerticalAlignment="Top" Background="#00000000" Foreground="#FF0E0E0E"/>
         <Label FontWeight="Bold" Content="Computer name:" HorizontalAlignment="Left" Margin="13,77,0,0" VerticalAlignment="Top" Background="#00000000" Foreground="Black"/>
 
